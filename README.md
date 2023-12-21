@@ -19,7 +19,7 @@ Compared to the web project I did before, next.js is more of a truly dynamic web
 Compared with MYSQL, PHP and other languages, Next.js allows me to experience a more profound world of programming languages.
 At the same time, in this Final group project, I found that it is not easy to complete a development project through cooperation between teams, especially the previous communication problems among team members are crucial.
 
-That's the portfolio website ---<a href="https://localhost:3000/">Here</a>
+That's the portfolio website ---<a href="http://localhost:3000/">Here</a>
 .
 
 
