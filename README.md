@@ -13,6 +13,12 @@ This is a portfolio website built with Next.js and Tailwind CSS. It showcases yo
 1. Start the development server: `npm run dev`
 2. Open your browser and visit `http://localhost:3000` to view the Website.
 
+## Learn from this course:
+
+Compared to the web project I did before, next.js is more of a truly dynamic website, and the language is more flexible than HTML. 
+Compared with MYSQL, PHP and other languages, Next.js allows me to experience a more profound world of programming languages.
+At the same time, in this Final group project, I found that it is not easy to complete a development project through cooperation between teams, especially the previous communication problems among team members are crucial.
+
 That's the portfolio website ---<a href="https://localhost:3000/">Here</a>
 .
 
